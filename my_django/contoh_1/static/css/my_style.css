@@ -1,0 +1,13 @@
+body{
+    background-color: aqua !important;
+}
+
+h1{
+    color: blanchedalmond;
+}
+
+table, tr, td{
+    border: 1px solid red !important;
+    text-align: center;
+    padding: 5px;
+}
